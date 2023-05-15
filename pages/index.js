@@ -14,7 +14,7 @@ export default function Home() {
            
          </p>
         <h1 className="title">
-          Welcome to the Rico the Pug Information center
+          Welcome to the Rico the SELISE
         </h1>
 
         <p className="description">
