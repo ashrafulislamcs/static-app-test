@@ -1,0 +1,16 @@
+{
+  "name": "ricopug",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "next": "9.3.5",
+    "nextjs": "0.0.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
